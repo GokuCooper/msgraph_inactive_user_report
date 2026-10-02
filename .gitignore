@@ -1,0 +1,9 @@
+# Secrets: never upload these
+.env
+
+# Python virtual environment and cache
+.venv/
+__pycache__/
+
+# Raw reports hold real user data from the tenant
+reports/
